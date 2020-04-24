@@ -1,0 +1,15 @@
+Hi everyone.
+
+new to unraid, and so far absolutely loving it but i'm having a problem i cant work out.
+
+
+
+since installing unraid i have been unable to get any Docker container to download/run. i haven't changed any of docker settings aside form increasing the image size (did as a last resort in case there was a space issue) but no matter what i have tried i get the same result.
+
+
+
+as i have the CA installed my steps would be, go to CA, Find the docker i'm looking to install, fill in all the required fields, click apply, wait... but i will never get beyond the please wait screen to actually download the image. so far i have tried to install linuxservers Plex, plex's plex, and gitlab all with the same result. i currently have no dockers installed on the system, but i do have a few vm's installed.
+
+
+
+i know i'm a noob with docker, but this seems wrong. is anyone able to help at all. i tried to upload the diagnostics file, as well as a photo of the issue but am getting -200 so will try from another machine tomorrow
